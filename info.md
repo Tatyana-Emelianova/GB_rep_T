@@ -1,1 +1,1 @@
-Hello, GitHub
+Hello, hello, текст для создания конфликта
